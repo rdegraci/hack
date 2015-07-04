@@ -9,7 +9,7 @@ println(helloWorld)
 
 var a = 10
 
-// This is a comme
+// This is a commen
 
 a = 3
 
