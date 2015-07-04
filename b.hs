@@ -29,6 +29,7 @@ var jj:Int = 4
 
 var aaa, bbb, ccc : Double
 
+aaa = 4
 
 cc = "World"
 
