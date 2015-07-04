@@ -7,6 +7,7 @@ println(maximumNumberOfLoginAttempts)
 let helloWorld = "Hello World"
 println(helloWorld)
 
+var a = 1
 
 
 
