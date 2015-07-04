@@ -14,7 +14,7 @@ println("result = \(true)")
 typealias Byte = UInt8
 
 
-var cc:Byte = 0xff
+var cc:Byte = 0xf
 
 
 
