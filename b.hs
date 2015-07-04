@@ -20,4 +20,4 @@ max64 = UInt64.max
 println("UInt64 min = \(min64) and max = \(max64)")
 
 println(Int32)
-println(Int32)
+
