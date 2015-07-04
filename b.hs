@@ -20,7 +20,7 @@ a = 5;
 var b = 6, c = 7.0
 
 var cc:String = "Hello"
-var ff:Float = 5
+var ff:Float = 5.5
 
 
 println(cc)
