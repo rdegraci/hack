@@ -22,7 +22,7 @@ println("UInt64 min = \(min64) and max = \(max64)")
 println(Int32)
 
 
-var aa:Float = 4
+var aa:Float = 40
 
 
 var bb:Double = 4_000.0
