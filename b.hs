@@ -8,7 +8,8 @@ var bb:Int16 = 3
 
 
 
-println()
+println("result = \(true)")
+//println("result = \(aa == bb)")
 
 
 
