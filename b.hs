@@ -1,10 +1,10 @@
 
 
-var min:UInt8
-var max:UInt8
+var min:UInt
+var max:UInt
 
-min = UInt8.min
-max = UInt8.max
+min = UInt.min
+max = UInt.max
 
 
 println("UInt8 min = \(min) and max = \(max)")
