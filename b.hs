@@ -12,6 +12,7 @@ var a = 10
 // This is a commen
 /* comment */ 
 
+//
 
 a = 3
 
