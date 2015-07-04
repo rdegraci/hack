@@ -4,7 +4,7 @@
 
 typealias Byte = UInt8
 
-var tuple = (Byte(2), "string")
+var tuple = (Byte(), "string")
 
 
 print(tuple)
