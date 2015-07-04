@@ -21,7 +21,7 @@ var cc:Byte = 0xFF
 println("cc = \(cc)")
 
 
-if true {
+if false {
 	println(true)
 } else {
 	println(false)
