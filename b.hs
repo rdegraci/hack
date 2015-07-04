@@ -22,7 +22,7 @@ println("cc = \(cc)")
 
 
 if false {
-	println(true)
+	println(cc)
 } else {
 	println(false)
 }
