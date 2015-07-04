@@ -36,5 +36,5 @@ println(ccc)
 
 cc = "World"
 
-println(cc)
+print(cc)
 
