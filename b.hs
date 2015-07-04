@@ -17,6 +17,5 @@ var max64:UInt64
 min64 = UInt64.min
 max64 = UInt64.max
 
-var aa64 = "\(min64)"
-var bb64 = "\(max64)"
+
 println("UInt8 min = \(min64) and max = \(max64)")
