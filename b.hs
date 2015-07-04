@@ -11,7 +11,7 @@ var bb:Int16 = 3
 println("result = \(true)")
 // println("result = \(aa == bb)")	// not valid ?
 
-typealias Byte = Int8
+typealias Byte = UInt8
 
 
 
