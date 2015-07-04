@@ -23,7 +23,7 @@ var cc:String = "Hello"
 var ff:Float = 5.5
 var gg:Array = [1,2,3]
 var hh:Array = ["a", "b"]
-var ii:Int
+var ii:Int = 4
 
 println(cc)
 
