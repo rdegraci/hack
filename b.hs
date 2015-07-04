@@ -22,12 +22,14 @@ println("UInt64 min = \(min64) and max = \(max64)")
 println(Int32)
 
 
-var aa:Float = 4000
+var aa:Float = 4
 
 
-var bb:Double = 4_000.0
+var bb:Double = 4.0
 
-println (true == true)	
+
+// var result = (aa == bb)
+//println (result)	
 
 println( 4_000 == 4_000)
 
