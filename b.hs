@@ -28,7 +28,7 @@ var aa:Float = 4
 var bb:Double = 4.0
 
 
-// var result = (aa == bb) // won't c
+// var result = (aa == bb) // won't com
 // println (result)	
 
 println( 4_000 == 4_000)
