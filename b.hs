@@ -27,7 +27,7 @@ if false {
 	println(false)
 }
 
-var aaa = !(!false) == false	// whoah
+var aaa = !(!false) == !true	// whoah
 
 
 
