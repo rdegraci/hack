@@ -2,7 +2,10 @@
 
 
 
-var aa = Int8.min
+var aa = String("Hello World")
+
+
+
 
 println(aa)
 
