@@ -15,5 +15,5 @@ a = 3
 println(3)
 
 
-a = 5; var b = 6, c = 7
+a = 5; var b = 6, c = 7.0
 
