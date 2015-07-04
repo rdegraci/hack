@@ -8,4 +8,4 @@ max = UInt8.max
 
 var aa = "\(min)"
 var bb = "\(max)"
-println("\(aa)")
+println("\(aa + bb)")
