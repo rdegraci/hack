@@ -2,7 +2,7 @@
 
 
 
-var aa = Int8(3)
+var aa = Int8.min
 
 println(aa)
 
