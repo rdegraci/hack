@@ -1,6 +1,6 @@
 
 
-let maximumNumberOfLoginAttempts = 10
+let maximumNumberOfLoginAttempts = 1
 println(maximumNumberOfLoginAttempts)
 
 
