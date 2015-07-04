@@ -36,5 +36,5 @@ println(ccc)
 
 cc = "World"
 
-print(print(cc))	// In
+print(print(cc))	// Interet
 
