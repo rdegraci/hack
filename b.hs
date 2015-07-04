@@ -25,7 +25,7 @@ var gg:Array = [1,2,3]
 var hh:Array = ["a", "b"]
 var ii:Int = 4
 
-var jj:Int
+var jj:Int = 4
 
 println(cc)
 
