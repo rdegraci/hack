@@ -24,5 +24,5 @@ println(Int32)
 
 var aa:Float
 
-
+var bb:Double
 
