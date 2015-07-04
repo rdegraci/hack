@@ -9,3 +9,14 @@ max = UInt8.max
 var aa = "\(min)"
 var bb = "\(max)"
 println("UInt8 min = \(min) and max = \(max)")
+
+
+var min64:UInt64
+var max64:UInt64
+
+min64 = UInt64.min
+max64 = UInt64.max
+
+var aa64 = "\(min64)"
+var bb6 = "\(max64)"
+println("UInt8 min = \(min64) and max = \(max64)")
