@@ -4,4 +4,4 @@
 var result = 3
 
 
-println()
+println("\(result)")
