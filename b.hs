@@ -10,7 +10,7 @@ println(helloWorld)
 var a = 10
 
 // This is a commen
-/* Another ccomment */ 
+/* Another comment */ 
 
 
 a = 3
