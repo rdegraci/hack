@@ -34,6 +34,6 @@ println( 4 == 4.0)
 println(false)
 
 
-var ddd:UInt8 = 0
+var ddd:UInt8 = 1
 
 
