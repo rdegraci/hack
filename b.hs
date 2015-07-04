@@ -9,7 +9,7 @@ var bb:Int16 = 3
 
 
 println("result = \(true)")
-//println("result = \(aa == bb)")	// not valid ?
+// println("result = \(aa == bb)")	// not valid ?
 
 
 
