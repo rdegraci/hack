@@ -27,7 +27,7 @@ if false {
 	println(false)
 }
 
-var aaa = !true
+var aaa = !(!true)
 
 
 
