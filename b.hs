@@ -8,7 +8,7 @@ var bb:Int16 = 3
 
 
 
-println(aa)
+println()
 
 
 
