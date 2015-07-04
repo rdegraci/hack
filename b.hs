@@ -2,8 +2,9 @@
 
 
 
-var aa = String("Hello World")
+var aa:Int8 = 3
 
+var bb:Int16 = 3
 
 
 
