@@ -24,7 +24,7 @@ println(Int32)
 
 var aa:Float = 4
 
-println( aa == 4.0)
+println( 5 == 4.0)
 
 var bb:Double
 
