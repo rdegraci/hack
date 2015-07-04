@@ -1,10 +1,10 @@
 
 
-let maximumNumberOfLoginAttempts = 10
-println(maximumNumberOfLoginAttempts)
+let a1 = 10
+println(a1)
 
 
-let helloWorld = "a1 =\(maximumNumberOfLoginAttempts)"
+let helloWorld = "a1 =\(a1)"
 println(helloWorld)
 
 var a = 10
