@@ -36,6 +36,6 @@ println(ccc)
 
 cc = "World"
 
-print(print(cc))	// Interesting
+print(print(print(cc)))	// Interesting
 
 
