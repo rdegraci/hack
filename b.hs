@@ -21,7 +21,7 @@ var b = 6, c = 7.0
 
 var cc:String = "Hello"
 var ff:Float = 5.5
-
+var gg:Array = [1,2,3]
 
 
 println(cc)
