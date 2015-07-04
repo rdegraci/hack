@@ -2,7 +2,7 @@
 
 
 
-var aa:UInt
+var aa = UInt8(3)
 
 
 
