@@ -31,7 +31,7 @@ var aaa, bbb, ccc : Double
 
 aaa = 4.0
 bbb = 3
-ccc = aaa/2 // Interesting 
+ccc = aaa/bbb // Interesting 
 
 cc = "World"
 
