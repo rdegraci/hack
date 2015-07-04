@@ -26,5 +26,5 @@ var aa:Float = 4
 
 println( aa == 4.0)
 
-var bb:Double
+var bb:Double 
 
