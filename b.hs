@@ -29,7 +29,7 @@ var bb:Double = 4.0
 
 
 // var result = (aa == bb)
-//println (result)	
+// println (result)	
 
 println( 4_000 == 4_000)
 
