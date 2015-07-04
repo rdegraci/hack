@@ -1,9 +1,11 @@
 
 
+var min:UInt8
+var max:UInt8
 
-var result:UInt8
+min = UInt8.min
+max = UInt8.max
 
-
-result = UInt8.max
-
-println("\(result)")
+var aa = "\(min)"
+var bb = "\(max)"
+println("\(aa)")
