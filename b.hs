@@ -17,4 +17,4 @@ min64 = UInt64.min
 max64 = UInt64.max
 
 
-println("UInt min = \(min64) and max = \(max64)")
+println("UInt64 min = \(min64) and max = \(max64)")
