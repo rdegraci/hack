@@ -25,7 +25,7 @@ println(Int32)
 var aa:Float = 4
 
 
-var bb:Double = 4_000
+var bb:Double = 4_000.0
 
 println (true == true)	
 
