@@ -29,6 +29,6 @@ var bb:Double = 4
 
 print (true == true)
 
-println( )
+println( 4)
 
 
