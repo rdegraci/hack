@@ -1,7 +1,7 @@
 
 
 
-var result:UInt8 = 3
+var result:UInt8 
 
 
 result = UInt8.max
