@@ -32,7 +32,7 @@ var aaa, bbb, ccc : Double
 aaa = 4.0
 bbb = 3
 ccc = aaa/bbb // Interesting 
-
+println(cc)
 cc = "World"
 
 println(cc)
