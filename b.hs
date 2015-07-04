@@ -4,7 +4,7 @@ let maximumNumberOfLoginAttempts = 10
 println(maximumNumberOfLoginAttempts)
 
 
-let helloWorld = "aa\(maximumNumberOfLoginAttempts)"
+let helloWorld = "a\(maximumNumberOfLoginAttempts)"
 println(helloWorld)
 
 var a = 10
