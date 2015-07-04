@@ -8,4 +8,4 @@ max = UInt8.max
 
 var aa = "\(min)"
 var bb = "\(max)"
-println("UIntmin = \(min) and max = \(max)")
+println("UInt8 min = \(min) and max = \(max)")
