@@ -31,7 +31,7 @@ var aaa, bbb, ccc : Double
 
 aaa = 4.0
 bbb = 3
-ccc = 1/2 // nt
+ccc = 1/2 // Int
 
 cc = "World"
 
