@@ -29,7 +29,7 @@ var bb:Double = 4
 
 println (true == true)	
 
-println( 4_00 == 4.0)
+println( 4_000 == 4.0)
 
 println(false)
 
