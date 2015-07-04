@@ -17,7 +17,7 @@ typealias Byte = UInt8
 
 var cc:Byte = 0xFF
 
-
+Byte.min
 println("cc = \(cc)")
 
 
