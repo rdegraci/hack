@@ -19,5 +19,5 @@ a = 5;
 
 var b = 6, c = 7.0
 
-var cc:String 
+var cc:String = "Hello"
 
