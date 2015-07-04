@@ -7,7 +7,7 @@ min = UInt.min
 max = UInt.max
 
 
-println("UInt8 min = \(min) and max = \(max)")
+println("UInt min = \(min) and max = \(max)")
 
 
 var min64:UInt64
