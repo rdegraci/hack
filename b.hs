@@ -10,3 +10,6 @@ if let r = result {
   println("r = \(r)")
 }
 
+
+
+var test:Int
