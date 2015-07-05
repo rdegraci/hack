@@ -20,6 +20,8 @@ println("b is \(b)")
 var yy = 3
 println(++yy)
 
+//println(++(++yy)) Illegal
+
 var cc:UInt8 = 3
 
 var c1 = --(cc)
