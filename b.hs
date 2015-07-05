@@ -12,6 +12,7 @@ var (c, d) = (Byte(0xA), String("Hello"))
 var result = (a == c)
 
 println(result)
+
 println("a is \(a)")
 
 // println("b is \(b)")
