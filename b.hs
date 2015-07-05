@@ -11,8 +11,8 @@ if let r = result {
 }
 
 
-
-var test:Int? = nil
+// 'Int' does not conform to protocol 'NilLiteralConvertible'
+//var test:Int = nil
 
 
 // Can not unwrap successfully because test is nil
