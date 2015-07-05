@@ -1,5 +1,6 @@
 var string:String = String("Hello World")
 
 
+var result = string
 
-println(string)
+println(result)
