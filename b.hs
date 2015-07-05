@@ -11,3 +11,4 @@ let b = 	// HAH !!
 println(a)
 println("b is \(b)")
 
+let c = b
