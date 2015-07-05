@@ -1,6 +1,6 @@
 // compound assignment operators 
 
-var a:Int = 3
+var a:UInt8 = 4
 a += 1
 
 println("a is \(a)")
