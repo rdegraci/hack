@@ -27,3 +27,4 @@ println(nil ?? "hi!")
 
 let zz = (nil ?? "hi!")
 
+println(zz)
