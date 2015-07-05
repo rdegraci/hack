@@ -2,9 +2,7 @@
 
 
 
-var a:Int = 3
-a = ++a
+var a:UInt8 = 8
+a += 1
 
-print("\(a)")
-
-
+println("a is \(a)")
