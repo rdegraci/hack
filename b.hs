@@ -15,4 +15,5 @@ if let r = result {
 var test:Int? = nil
 
 
-let zz = test
+// Can not unwrap successfully because test is nil
+//let zz = test!
