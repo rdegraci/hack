@@ -10,3 +10,5 @@ println("a is \(a)")
 
 // 'UInt8' does not conform to protocol 'BooleanType'
 // println(a ? true : false)
+
+
