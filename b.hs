@@ -21,4 +21,4 @@ println("c is \(c)")
 
 var dd = (a,b)
 
-println("dd. is \(dd)")
+println("dd.0 is \(dd)")
