@@ -1,9 +1,10 @@
 // compound assignment operators 
 
-var a:UInt8 = 8
-a += 1
 
-println("a is \(a)")
 
+var a:Int = 3
+a = ++a
+
+print("\(a)")
 
 
