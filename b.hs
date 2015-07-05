@@ -16,3 +16,4 @@ let b = "Hello"
 let c = (a,b)
 
 
+println(c.0 > 0 ? true : false)
