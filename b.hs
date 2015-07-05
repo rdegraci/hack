@@ -12,7 +12,7 @@ if let r = result {
 
 
 // 'Int' does not conform to protocol 'NilLiteralConvertible'
-//var test:Int = nil
+// var test:Int = nil
 
 
 // Can not unwrap successfully because test is nil
