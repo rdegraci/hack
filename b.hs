@@ -1,1 +1,1 @@
-var string:String
+var string:String = String("Hello World")
