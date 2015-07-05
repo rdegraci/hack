@@ -6,5 +6,5 @@ let result:Int? = nil
 
 result == nil
 
-println(result )
+println(result == nil)
 println(string.toInt())
