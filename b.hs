@@ -2,7 +2,7 @@
 
 var a = 3
 
-let b = 
+let b = 	
 
 // missing argument for parameter #2 in call
 // println(++(a++))	
