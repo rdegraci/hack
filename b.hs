@@ -8,4 +8,4 @@ let b =
 // println(++(a++))	
 
 println(a)
-println(b)
+println()
