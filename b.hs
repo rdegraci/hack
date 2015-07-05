@@ -2,6 +2,8 @@
 
 var a = 3
 
+let b = 
 
-println(++a)
+//missing argument for parameter #2 in call
+// println(++(a++))	
 println(a)
