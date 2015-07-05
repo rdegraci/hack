@@ -12,4 +12,4 @@ if let r = result {
 
 
 
-var test:Int
+var test:Int!
