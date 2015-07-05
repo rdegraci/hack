@@ -18,3 +18,5 @@ if let r = result {
 // Can not unwrap successfully because test is nil
 // let zz = test!
 
+
+assert(true)
