@@ -1,1 +1,1 @@
-
+var string:String
