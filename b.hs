@@ -7,3 +7,4 @@ let result:Int?
 println(result == nil)
 
 println(string.toInt())
+
