@@ -1,4 +1,4 @@
-var string:String = String("22")
+var string:String = String("2")
 
 
 let result:Int? = string.toInt()
