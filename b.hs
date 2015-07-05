@@ -1,7 +1,6 @@
 
 
 
-
 typealias Byte = UInt8
 
 var (a,b) = (Byte(0xA), String("Hello"))
