@@ -1,7 +1,7 @@
 var string:String = String("aa")
 
 
-var result:Int! = string.toInt()
+var result:Int? = string.toInt()
 
 
 println("result is \(result)")
