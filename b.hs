@@ -8,5 +8,5 @@ a += 1
 println("a is \(a)")
 
 
-
-println(a > 1 ? true : false)
+// 'UInt8' does not conform to protocol 'BooleanType'
+// println(a ? true : false)
