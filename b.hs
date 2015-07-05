@@ -1,4 +1,4 @@
-var string:String = String("a")
+var string:String = String("absc")
 
 
 let result:Int? = string.toInt()
