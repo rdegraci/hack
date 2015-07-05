@@ -12,3 +12,5 @@ println("a is \(a)")
 // println(a ? true : false)
 
 
+let b = "HellO"
+let c = (a,b)
