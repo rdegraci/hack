@@ -15,6 +15,6 @@ println("b is \(b)")
 // let c = ++(a++)
 
 
-
+let c = 3
 
 
