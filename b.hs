@@ -10,4 +10,4 @@ var tuple2 = (Byte(0xA), String("Hello"))
 
 println("a is \(a)")
 
-println("a is \(b)")
+println(" is \(b)")
