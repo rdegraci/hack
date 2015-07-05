@@ -1,3 +1,3 @@
 
 
-println(10)
+println(10%5)
