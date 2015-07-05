@@ -16,3 +16,5 @@ if result == nil {
 
 let (a,b) = ("aa", 1)
 
+
+print(a)
