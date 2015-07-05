@@ -1,4 +1,4 @@
-var string:String = String("")
+var string:String = String("11")
 
 
 var result:Int? = string.toInt()
