@@ -23,3 +23,4 @@ var dd = (a,b)
 
 println("dd.1 is \(dd.1)")
 
+println("dd.count is \(dd)")
