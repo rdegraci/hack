@@ -18,5 +18,7 @@ if let r = result {
 // Can not unwrap successfully because test is nil
 // let zz = test!
 
+// pattern variable binding cannot appear in an expression
+//assert(let r = result)
 
-assert(true)
+
