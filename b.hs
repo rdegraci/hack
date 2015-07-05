@@ -5,7 +5,6 @@ var result:Int? = string.toInt()
 
 
 
-
 if let r = result {
   println("r = \(r)")
 }
