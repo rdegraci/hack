@@ -1,7 +1,7 @@
 var string:String = String("abc")
 
 
-let result:Int? 
+let result:Int?
 
 
 println(result == nil)
