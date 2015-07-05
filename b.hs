@@ -14,7 +14,7 @@ if result == nil {
 }
 
 
-// tuples a
+// tuples are cool
 let (a,b) = ("aa", 1)
 
 let c = (a,b)
