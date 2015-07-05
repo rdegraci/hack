@@ -18,3 +18,5 @@ println("a is \(a)")
 println("c is \(c)")
 
 
+
+var dd = (a,b)
