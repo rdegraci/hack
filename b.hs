@@ -21,4 +21,5 @@ if let r = result {
 // pattern variable binding cannot appear in an expression
 // assert(let r = result)
 
-
+let zz = true
+assert(zz, "yeah")
