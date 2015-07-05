@@ -12,6 +12,6 @@ if let r = result {
 
 
 
-var test:Int! = nil
+var test:Int? = nil
 
-
+let zz = test
