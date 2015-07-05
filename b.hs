@@ -1,10 +1,14 @@
-var string:String = String("abc")
+var string:String = String("11")
 
 
-let result:Int?
+var result:Int?
 
 
 println(result == nil)
 
 println(string.toInt())
 
+
+if  result != nil{
+  println(true)
+  }
