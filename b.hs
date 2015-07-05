@@ -8,7 +8,7 @@ let b = 	// HAH !!
 // missing argument for parameter #2 in call
 // println(++(a++))	
 
-println(a)
+println()
 println("b is \(b)")
 
 
