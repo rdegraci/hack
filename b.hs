@@ -15,6 +15,10 @@ println("b is \(b)")
 // let c = ++(a++)
 
 
-let c = 3
+var cc = 3
+let c = cc++
+
+
+println("c is \(c)")
 
 
