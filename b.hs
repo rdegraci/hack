@@ -26,5 +26,5 @@ let (a,b) = ("1", "hello")
 let yy = (a, b)
 
 let zz = a == "1"
-let ff = yy
+let ff = yy.0
 assert(zz, "yeah")
