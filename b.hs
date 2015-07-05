@@ -1,6 +1,6 @@
 
 
-var a = 3
+var a:Int = 3
 
 let b = 	// HAH !!
 
