@@ -9,6 +9,6 @@ println(result == nil)
 println(string.toInt())
 
 
-if  result != nil{
+if result == nil {
   println(true)
 }
