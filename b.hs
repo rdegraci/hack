@@ -22,7 +22,7 @@ var c = ++(c1)
 
 // error: could not find an overload for '++' 
 // that accepts the supplied arguments
-//var c2 = ++(--(cc))
+// var c2 = ++(--(cc))
 
 
 println("cc is \(cc)")
