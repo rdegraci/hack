@@ -20,3 +20,4 @@ let c = (a,b)
 // println(c.1 > 0 ? true : false)
 
 
+println(nil ?? "hi!")
