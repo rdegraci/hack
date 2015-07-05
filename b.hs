@@ -15,10 +15,13 @@ println("b is \(b)")
 // let c = ++(a++)
 
 
-var cc = 3
-var c = --cc
+var cc:UInt8 = 3
+
+// error: could not find an overload for '++' 
+// that accepts the supplied arguments
+// var c = ++(--(cc))
 
 
-println("c is \(c)")
+println("cc is \(cc)")
 
 
