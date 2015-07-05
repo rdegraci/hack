@@ -19,6 +19,6 @@ if let r = result {
 // let zz = test!
 
 // pattern variable binding cannot appear in an expression
-//assert(let r = result)
+// assert(let r = result)
 
 
