@@ -1,7 +1,7 @@
 var string:String = String("a")
 
 
-var result:Int? 
+var result:Int? = string.toInt()
 
 
 println(result == nil)
