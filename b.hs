@@ -1,6 +1,6 @@
 var string:String = String("Hello World")
 
 
-var result = string
+var result = string.toInt()
 
 println(result)
