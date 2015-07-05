@@ -15,5 +15,6 @@ println("a is \(a)")
 let b = "Hello"
 let c = (a,b)
 
-
-println(c.0 > 0 ? true : false)
+// error: type '(T, inout TargetStream)' 
+// does not conform to protocol 'BooleanLiteralConvertible'
+//println(c.1 > 0 ? true : false)
