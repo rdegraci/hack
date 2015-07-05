@@ -16,7 +16,7 @@ println("b is \(b)")
 
 
 var cc = 3
-var c = -cc
+var c = --cc
 
 
 println("c is \(c)")
