@@ -15,4 +15,4 @@ println(result)
 
 println("a is \(a)")
 
-println("c is \(b)")
+println("c is \(c)")
