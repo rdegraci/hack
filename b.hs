@@ -14,7 +14,7 @@ println("b is \(b)")
 
 // This is some fucked up bullshit
 // error: 'Int' is not identical to 'UInt8'
-//let c = ++(a++)
+// let c = ++(a++)
 
 
 var yy = 3
