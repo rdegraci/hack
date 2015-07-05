@@ -15,7 +15,7 @@ println("b is \(b)")
 // let c = ++(a++)
 
 
-var cc:Int = 3
+var cc:UInt = 3
 
 // error: could not find an overload for '++' 
 // that accepts the supplied arguments
