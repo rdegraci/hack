@@ -4,9 +4,9 @@
 
 typealias Byte = UInt8
 
-var tuple1 = (Byte(0xA), String("Hello"))
+var (a,b) = (Byte(0xA), String("Hello"))
 var tuple2 = (Byte(0xA), String("Hello"))
 
 
-
+println()
 
