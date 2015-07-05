@@ -10,7 +10,7 @@ println(string.toInt())
 
 
 if let r = result {
-  println()
+  println("r = \(r)")
 }
 
 
