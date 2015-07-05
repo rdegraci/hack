@@ -9,7 +9,7 @@ var (a,b) = (Byte(0xA), String("Hello"))
 var (c, d) = (Byte(0xA), String("Hello"))
 
 
-var result = (a.0 == c)
+var result = (a == c)
 
 println(result)
 
