@@ -9,4 +9,4 @@ println("a is \(a)")
 
 
 
-println(false ? true : false)
+println(a > 1 ? true : false)
