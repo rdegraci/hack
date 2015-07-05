@@ -17,9 +17,10 @@ println("b is \(b)")
 
 var cc:UInt8 = 3
 
+var c1 = --(cc)
 // error: could not find an overload for '++' 
 // that accepts the supplied arguments
-// var c = ++(--(cc))
+var c = ++(c1)
 
 
 println("cc is \(cc)")
