@@ -2,7 +2,7 @@
 
 // 
 
-typealias Dict = [String : String]
+typealias Dictionary = [String : String]
 
 let dictionary:[String : String] = [ "a" : "b"]
 println(dictionary["a"])
