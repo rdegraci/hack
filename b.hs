@@ -25,7 +25,7 @@ println(y)
 let cc = ["a", "b"]
 
 let dd = {
-	"a"
+	"a" 
 }
 
 println(cc.reverse())
