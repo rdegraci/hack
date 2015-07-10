@@ -45,7 +45,7 @@ for index in indices(greeting) {
 }
 println("\n")
 
-// Excerpt From: Apple Inc. “The Swift Programming Language.” iBooks. https://itun.es/us/jEUH0.l
+
 
 
 
