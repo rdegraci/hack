@@ -31,7 +31,7 @@ var z = "a"
 
 let s = String(z += "aa")
 
-
+s
 println(s)
 
 
