@@ -10,7 +10,7 @@ let b:[Int] = [1,3,5]
 println(b)
 
 
-let c:(String, Int) = ("apple", 3)
+let c:(String, Int, [String : String], [Int]) = ("apple", 3, a, b)
 println(c)
 
 
