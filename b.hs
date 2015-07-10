@@ -47,7 +47,7 @@ for index in indices(greeting) {
 println("\n")
 
 
-
+let ff = [Int]()
 
 
 
