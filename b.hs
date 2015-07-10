@@ -34,7 +34,7 @@ let s = String(z += "aa")
 println(s)
 
 
-for c in "Hello" {
+for c in "Hello".utf8 {
   println(c)
   }
   
