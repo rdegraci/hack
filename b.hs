@@ -10,7 +10,7 @@ let b:[Int] = [1,3,5]
 println(b)
 
 
-let c:(String, Int, Dictionary, [Int]) = ("apple", 3, a, b)
+let c:(String, Int, Dictionary, Array) = ("apple", 3, a, b)
 println(c)
 
 
