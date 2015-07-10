@@ -38,7 +38,14 @@ for c in "Hello" {
   println(c)
   }
   
+  
+let greeting = "Hello World"
+for index in indices(greeting) {
+    print("\(greeting[index]) ")
+}
+println("\n")
 
+//Excerpt From: Apple Inc. “The Swift Programming Language.” iBooks. https://itun.es/us/jEUH0.l
 
 
 
