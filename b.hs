@@ -41,7 +41,7 @@ for c in "Hello" {
   
 let greeting = "Hello World"
 for index in indices(greeting) {
-    print("\(greeting[index])y")
+    print("\(greeting[index])")
 }
 println("\n")
 
