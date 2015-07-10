@@ -27,7 +27,7 @@ let cc = ["a", "b"]
 println(cc.reverse())
 
 
-let s = String("a" )
+let s = String()
 println(s)
 
 
