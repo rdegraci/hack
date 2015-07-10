@@ -9,6 +9,9 @@ let b:[Int] = [1,3,5]
 println(b)
 
 
+let c:(String, Int) = ("apple", 3)
+
+
 
 
 
