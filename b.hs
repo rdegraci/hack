@@ -4,7 +4,7 @@
 
 typealias Dictionary = [String : String]
 
-let dictionary:[String : String] = [ "a" : "b"]
+let dictionary:Dictionary = [ "a" : "b"]
 println(dictionary["a"])
 
 
