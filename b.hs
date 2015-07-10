@@ -34,7 +34,9 @@ let s = String(z += "aa")
 println(s)
 
 
-
+for c in "Hello" {
+  println(c)
+  }
 
 
 
