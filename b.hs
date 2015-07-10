@@ -50,6 +50,7 @@ println("\n")
 var ff = [Int]()
 ff.append(3)
 
+println(ff)
 
 
 
