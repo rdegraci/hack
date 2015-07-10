@@ -28,6 +28,7 @@ let dd = {
 	"a" 
 }
 
+println(dd)
 
 println(cc.reverse())
 
