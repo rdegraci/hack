@@ -22,14 +22,14 @@ println(tuple)
 // var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"]
 
 
-func ff()->Int {
+func ff(flag:String)->Int {
 
 	return 3
 }
 
 
 
-println(ff())
+println(ff("hi"))
 
 
 
