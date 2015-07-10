@@ -1,7 +1,7 @@
 // 
 
 
-let a = [ "a" : "b"]
+let a:[String : String] = [ "a" : "b"]
 println(a["a"])
 
 
