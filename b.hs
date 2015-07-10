@@ -10,8 +10,8 @@ let b:[Int] = [1,3,5]
 println(b)
 
 
-let c:(String, Int, Dictionary, Array) = ("apple", 3, a, b)
-println(c)
+let tuple:(String, Int, Dictionary, Array) = ("apple", 3, a, b)
+println()
 
 
 // No sets ?
