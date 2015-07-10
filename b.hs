@@ -13,7 +13,7 @@ println(b)
 
 
 for x in b {
-
+ println(x)
 }
 
 
