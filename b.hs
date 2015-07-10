@@ -4,7 +4,7 @@
 
 let a = 1...4
 
-println()
+println(3 )
 
 
 
