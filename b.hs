@@ -26,7 +26,7 @@ func ff(flag:String)->String {
 
 	var cc = "ho"
 	cc += "hi"
-	return cc
+	return flag
 }
 
 
