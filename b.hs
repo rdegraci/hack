@@ -2,7 +2,7 @@
 
 
 
-let a = 1
+let a = 1...4
 
 println(a)
 
