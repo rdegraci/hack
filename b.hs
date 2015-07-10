@@ -47,8 +47,8 @@ for index in indices(greeting) {
 println("\n")
 
 
-let ff = [Int]()
-ff 
+var ff = [Int]()
+ff.append(3)
 
 
 
