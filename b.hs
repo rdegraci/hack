@@ -22,9 +22,11 @@ println(tuple)
 // var favoriteGenres: Set<String> = ["Rock", "Classical", "Hip hop"]
 
 
-func ff(flag:String)->Int {
+func ff(flag:String)->String {
 
-	return 3
+	var cc = "ho"
+	cc += "hi"
+	return cc
 }
 
 
