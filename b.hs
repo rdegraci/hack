@@ -29,7 +29,7 @@ println(cc.reverse())
 
 var z = "a"
 
-let s = String(z )
+let s = String(z += "aa")
 println(s)
 
 
