@@ -2,7 +2,7 @@
 
 
 let a = [ "a" : "b"]
-println(a)
+println(a["a"])
 
 
 
