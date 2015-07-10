@@ -22,7 +22,7 @@ println(y)
 }
 
 
-let cc = ["a", "b"]
+let cc = ["a", ]
 
 println(cc.reverse())
 
