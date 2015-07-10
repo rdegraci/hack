@@ -9,6 +9,7 @@ println(a)
 
 let b = 1..<5
 
+println(b)
 
 
 
