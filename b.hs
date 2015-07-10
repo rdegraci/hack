@@ -30,7 +30,6 @@ let dd = {
 
 println(dd)
 
-println(cc.reverse())
 
 
 
