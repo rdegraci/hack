@@ -11,7 +11,7 @@ println(b)
 
 
 let tuple:(String, Int, Dictionary, Array) = ("apple", 3, a, b)
-println()
+println(tuple)
 
 
 // No sets ?
