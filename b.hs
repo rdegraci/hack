@@ -13,7 +13,7 @@ let c:(String, Int) = ("apple", 3)
 println(c)
 
 
-
+//let d:Set<Int> = [1,3,4]
 
 
 
