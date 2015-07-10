@@ -10,7 +10,7 @@ println(b)
 
 
 let c:(String, Int) = ("apple", 3)
-
+println(c)
 
 
 
