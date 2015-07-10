@@ -38,7 +38,7 @@ for c in "Hello" {
   println(c)
   }
   
-  
+ 
 let greeting = "Hello World"
 for index in indices(greeting) {
     print("\(greeting[index])! ")
