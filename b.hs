@@ -12,7 +12,8 @@ let b = 1..<4
 println(b)
 
 
-
+for x in b {
+}
 
 
 
