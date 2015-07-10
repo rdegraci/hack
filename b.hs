@@ -2,15 +2,17 @@
 
 // 
 
-let a:[String : String] = [ "a" : "b"]
-println(a["a"])
 
 
-let b:[Int] = [1,3,5]
-println(b)
+let dictionary:[String : String] = [ "a" : "b"]
+println(dictionary["a"])
 
 
-let tuple:(String, Int, Dictionary, Array) = ("apple", 3, a, b)
+let array:[Int] = [1,3,5]
+println(array)
+
+
+let tuple:(String, Int, Dictionary, Array) = ("apple", 3, dictionary, array)
 println(tuple)
 
 
